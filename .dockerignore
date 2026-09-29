@@ -1,0 +1,17 @@
+.git/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+mock_server.log
+tests/
+.pytest_cache/
+.coverage
+htmlcov/
+requirements-dev.txt
+pyproject.toml
+.github/
+.idea/
+.vscode/

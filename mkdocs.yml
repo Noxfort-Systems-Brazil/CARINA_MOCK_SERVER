@@ -1,0 +1,149 @@
+# ==============================================================================
+# CARINA MOCK SERVER — MkDocs Configuration (Material for MkDocs)
+# High-Frequency Telemetry & Synapse Protocol Test Harness
+# Copyright (C) 2026 — Noxfort Systems
+# ==============================================================================
+
+site_name: "CARINA MOCK SERVER — Technical Documentation"
+site_description: "Internal technical documentation for CARINA MOCK SERVER — High-Frequency Telemetry & Synapse Protocol Test Harness of the Noxfort ecosystem."
+site_author: "Gabriel Moraes — Noxfort Systems"
+copyright: "Copyright &copy; 2026 — Noxfort Systems"
+
+# ==============================================================================
+# Theme
+# ==============================================================================
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/server-network
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.path
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+
+# ==============================================================================
+# Markdown Extensions
+# ==============================================================================
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+# ==============================================================================
+# Plugins
+# ==============================================================================
+plugins:
+  - search
+
+# ==============================================================================
+# Navigation
+# ==============================================================================
+nav:
+  - Overview: index.md
+  - Master MOC: CARINA_MOCK_MOC.md
+  - Architecture & Protocols:
+      - Clean Architecture & Facade: pt-br/architecture.md
+      - Synapse HFT API (gRPC): API_REFERENCE.md
+  - Telemetry & UI:
+      - Tkinter Dashboard & Diagnostics: UI_AND_DASHBOARD.md
+  - Operations & QA:
+      - Testing & Test Harness: TESTING.md
+      - Deployment & Containerization: DEPLOYMENT_AND_PACKAGING.md
+      - Developer Guides: DEVELOPER_GUIDES.md
+  - Multi-Language Suites:
+      - 🇺🇸 English:
+          - Hub: en/README.md
+          - Architecture: en/architecture.md
+          - Synapse Protocol API: en/api_reference.md
+          - UI & Diagnostics: en/ui_and_dashboard.md
+          - Testing Suite: en/testing.md
+          - Deployment & Docker: en/deployment.md
+          - Developer Guides: en/developer_guides.md
+      - 🇧🇷 Português (Brasil):
+          - Hub Central: pt-br/README.md
+          - Arquitetura: pt-br/architecture.md
+          - API Protocolo Synapse: pt-br/api_reference.md
+          - UI e Diagnósticos: pt-br/ui_and_dashboard.md
+          - Testes & Validação: pt-br/testing.md
+          - Deploy e Docker: pt-br/deployment.md
+          - Guias do Desenvolvedor: pt-br/developer_guides.md
+      - 🇪🇸 Español:
+          - Centro de Documentación: es/README.md
+          - Arquitectura: es/architecture.md
+          - Referencia API: es/api_reference.md
+          - Interfaz y Diagnóstico: es/ui_and_dashboard.md
+          - Pruebas y Cobertura: es/testing.md
+          - Despliegue y Contenedores: es/deployment.md
+          - Guías de Desarrollo: es/developer_guides.md
+      - 🇫🇷 Français:
+          - Hub de Documentation: fr/README.md
+          - Architecture: fr/architecture.md
+          - Référence API Synapse: fr/api_reference.md
+          - Interface & Diagnostic: fr/ui_and_dashboard.md
+          - Tests & Validation: fr/testing.md
+          - Déploiement & Docker: fr/deployment.md
+          - Guide du Développeur: fr/developer_guides.md
+      - 🇷🇺 Русский:
+          - Центр документации: ru/README.md
+          - Архитектура: ru/architecture.md
+          - Спецификация API: ru/api_reference.md
+          - Панель управления и диагностика: ru/ui_and_dashboard.md
+          - Тестирование и качество: ru/testing.md
+          - Развертывание и Docker: ru/deployment.md
+          - Руководство разработчика: ru/developer_guides.md
+      - 🇨🇳 简体中文:
+          - 技术文档中心: zh/README.md
+          - 系统架构: zh/architecture.md
+          - Synapse 协议 API: zh/api_reference.md
+          - 界面与诊断引擎: zh/ui_and_dashboard.md
+          - 测试与覆盖率: zh/testing.md
+          - 部署与容器化: zh/deployment.md
+          - 开发者指南: zh/developer_guides.md
+
+# ==============================================================================
+# Extra CSS
+# ==============================================================================
+extra_css:
+  - stylesheets/extra.css

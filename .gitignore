@@ -1,0 +1,35 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Test and coverage caches
+.pytest_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Volatile logs
+*.log
+mock_server.log
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime-generated files (except base sample map)
+data/maps/*.net.xml
+!data/maps/osm.net.xml.gz

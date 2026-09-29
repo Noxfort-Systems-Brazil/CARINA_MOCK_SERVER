@@ -1,0 +1,30 @@
+/* ==============================================================================
+   CARINA MOCK SERVER — Custom Extra CSS
+   Noxfort Systems — A State Of Art Company
+   ============================================================================== */
+
+:root {
+  --md-primary-fg-color: #512da8;
+  --md-accent-fg-color: #ffb300;
+}
+
+/* Custom styles for mermaid diagrams and telemetry visualization */
+.mermaid {
+  text-align: center;
+  margin: 1.5em 0;
+}
+
+/* Metric badge callouts */
+.metric-badge {
+  display: inline-block;
+  padding: 0.2em 0.6em;
+  font-size: 85%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  background-color: #512da8;
+  color: #ffffff;
+}
