@@ -34,6 +34,7 @@
 |---|---|---|
 | 🏛️ **[系统核心架构](architecture.md)** | 架构设计蓝图 | 整洁架构分层、SOLID 原则落地、外观协调器 (`ReceiverFacade`)、线程池并发模型与线程安全状态隔离。 |
 | ⚡ **[Synapse 协议 API](api_reference.md)** | gRPC 与 Protobuf 规范 | `HFTLink` 服务定义、`Ping`、`LoadScenario`、`SystemControl` 以及亚毫秒级高频双向交通流数据推送 (`StreamTraffic`)。 |
+| 🗺️ **[路网存储与拓扑解析](map_and_topology.md)** | 仿真路网接入 | 二进制地图持久化 (`LocalMapStorage`)、gzip 自动解压与 SUMO 信号控制节点提取 (`SumoNetParser`)。 |
 | 🖥️ **[Tkinter 界面与诊断引擎](ui_and_dashboard.md)** | 桌面前端与数据诊断 | 现代深色监控主题 (`#1e1e2e`)、滑动窗口吞吐量频率计 (Hz)、全零数据智能预警引擎以及自动化无头 (Headless) 模式。 |
 | 🧪 **[测试与质量保证指南](testing.md)** | 自动化测试与覆盖率 | 包含 39 个单元与集成测试的 Pytest 套件，源码覆盖率超过 95.7%，提供确定性 gRPC 上下文模拟与并发测试。 |
 | 🚀 **[容器化与系统部署](deployment.md)** | Docker 与生产运维 | 基于 Python 3.12-slim 的轻量级 Docker 镜像、`docker-compose.yml` 快速编排、Socket 级健康检查与 Systemd 服务。 |

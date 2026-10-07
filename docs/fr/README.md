@@ -34,6 +34,7 @@ Conçu selon les principes de l'**Architecture Propre** et de **SOLID**, il sert
 |---|---|---|
 | 🏛️ **[Architecture du Système](architecture.md)** | Spécification d'Architecture | Architecture propre, principes SOLID, façade d'orchestration (`ReceiverFacade`), concurrence multithread et état thread-safe. |
 | ⚡ **[API du Protocole Synapse](api_reference.md)** | Spécification gRPC & Protobuf | Service `HFTLink`, méthodes `Ping`, `LoadScenario`, `SystemControl` et diffusion continue de trames de trafic (`StreamTraffic`). |
+| 🗺️ **[Stockage & Topologie SUMO](map_and_topology.md)** | Ingestion Réseau Routier | Persistance binaire (`LocalMapStorage`), décompression gzip et analyse des carrefours à feux (`SumoNetParser`). |
 | 🖥️ **[Tableau de Bord Tkinter & Diagnostic](ui_and_dashboard.md)** | Interface & Télémétrie | Tableau de bord de bureau sombre (`#1e1e2e`), mesure de fréquence (Hz), moteur de détection de trames à zéro et mode sans tête (headless). |
 | 🧪 **[Tests & Assurance Qualité](testing.md)** | Validation & Couverture | Suite Pytest comprenant 39 tests automatisés, couverture supérieure à 95%, simulations de contexte gRPC et tests de concurrence. |
 | 🚀 **[Déploiement & Conteneurs](deployment.md)** | Docker & Exploitation | Image Docker basée sur Python 3.12-slim, `docker-compose.yml`, vérifications de santé par socket, variables d'environnement et unité Systemd. |

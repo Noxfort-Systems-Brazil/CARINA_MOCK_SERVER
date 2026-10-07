@@ -16,8 +16,9 @@ Designed to operate seamlessly on **GitHub** and as an **[Obsidian](https://obsi
 | Subsystem / Dimension | Focus Area | Direct Link |
 | :--- | :--- | :---: |
 | 📚 **Master Map of Content** | Primary Obsidian Hub & Codebase Directory Map | [Explore Hub](CARINA_MOCK_MOC.md) |
-| 🏛️ **System Architecture** | Clean Architecture, SOLID Principles, Facade & Concurrency | [View Blueprint](../ARCHITECTURE.md) |
+| 🏛️ **System Architecture** | Clean Architecture, SOLID Principles, Facade & Concurrency | [View Blueprint](ARCHITECTURE.md) |
 | ⚡ **Synapse HFT API** | Sub-millisecond gRPC Telemetry & Protobuf Specifications | [View API Reference](API_REFERENCE.md) |
+| 🗺️ **Map Storage & SUMO Parser** | Binary Road Map Ingestion & Traffic Light Topology Parsing | [View Map Guide](MAP_AND_TOPOLOGY.md) |
 | 🖥️ **Desktop UI & Diagnostics** | Modern Dark Tkinter Dashboard, Card Components & Zero-Data Alert | [View UI Guide](UI_AND_DASHBOARD.md) |
 | 🧪 **Testing & Validation** | Pytest Test Suite, Harness Mocks & Coverage Reporting | [View Testing](TESTING.md) |
 | 🚀 **Deployment & Packaging** | Docker Containerization, Compose & Headless Operation | [View Deployment](DEPLOYMENT_AND_PACKAGING.md) |

@@ -34,6 +34,7 @@ Diseñado bajo los principios de **Arquitectura Limpia** y **SOLID**, actúa com
 |---|---|---|
 | 🏛️ **[Arquitectura del Sistema](architecture.md)** | Especificación Arquitectónica | Arquitectura limpia, principios SOLID, fachada orquestadora (`ReceiverFacade`), concurrencia multihilo y estado thread-safe. |
 | ⚡ **[API del Protocolo Synapse](api_reference.md)** | Especificación gRPC y Protobuf | Servicio `HFTLink`, llamadas `Ping`, `LoadScenario`, `SystemControl` y transmisión continua de tramas de tráfico (`StreamTraffic`). |
+| 🗺️ **[Almacenamiento y Topología](map_and_topology.md)** | Ingestión de Redes Viales | Persistencia binaria (`LocalMapStorage`), descompresión gzip y análisis de semáforos (`SumoNetParser`). |
 | 🖥️ **[Panel Tkinter y Diagnóstico](ui_and_dashboard.md)** | Interfaz y Telemetría | Panel de escritorio oscuro (`#1e1e2e`), medición de frecuencia (Hz), motor de detección de datos en cero y modo sin interfaz (headless). |
 | 🧪 **[Pruebas y Control de Calidad](testing.md)** | Validación y Cobertura | Suite Pytest con 39 pruebas automatizadas, cobertura superior al 95%, mocks deterministas de gRPC y pruebas de concurrencia. |
 | 🚀 **[Despliegue y Contenedores](deployment.md)** | Docker y Operaciones | Imagen Docker basada en Python 3.12-slim, `docker-compose.yml`, health checks de socket, variables de entorno y servicio Systemd. |

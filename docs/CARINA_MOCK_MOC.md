@@ -74,6 +74,7 @@ CARINA_MOCK_SERVER/
     ├── index.md                # MkDocs Portal
     ├── CARINA_MOCK_MOC.md      # Master Map of Content (This Document)
     ├── API_REFERENCE.md        # Synapse HFT Protocol & RPC Specification
+    ├── MAP_AND_TOPOLOGY.md     # SUMO Map Storage & Topology Parser Guide
     ├── UI_AND_DASHBOARD.md     # Tkinter Dashboard, Dark Theme & Diagnostics
     ├── TESTING.md              # Pytest Suite, Coverage & Mocks Guide
     ├── DEPLOYMENT_AND_PACKAGING.md # Docker, Compose & Headless Setup
@@ -92,8 +93,9 @@ CARINA_MOCK_SERVER/
 
 ## 🎯 Master Topic Navigation
 
-- **Core Architecture & Clean Layers:** [`../ARCHITECTURE.md`](../ARCHITECTURE.md)
+- **Core Architecture & Clean Layers:** [`ARCHITECTURE.md`](ARCHITECTURE.md)
 - **gRPC API Reference:** [`API_REFERENCE.md`](API_REFERENCE.md)
+- **Map Storage & Topology Parser:** [`MAP_AND_TOPOLOGY.md`](MAP_AND_TOPOLOGY.md)
 - **Dashboard & Diagnostics:** [`UI_AND_DASHBOARD.md`](UI_AND_DASHBOARD.md)
 - **Testing & Coverage:** [`TESTING.md`](TESTING.md)
 - **Deployment & Containers:** [`DEPLOYMENT_AND_PACKAGING.md`](DEPLOYMENT_AND_PACKAGING.md)

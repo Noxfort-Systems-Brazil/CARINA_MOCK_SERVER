@@ -40,6 +40,7 @@ Explore the full architecture, internal mechanics, protocol specifications, and 
 | 🗺️ **Master MOC** | Master Map of Content & Obsidian Knowledge Vault index | [View MOC](docs/CARINA_MOCK_MOC.md) |
 | 🏛️ **Core Architecture** | Clean Architecture, SOLID interfaces, Facade & Concurrency | [View Blueprint](ARCHITECTURE.md) |
 | ⚡ **Synapse HFT API** | gRPC `HFTLink` interface (`Ping`, `LoadScenario`, `Control`, `Stream`) | [View API Reference](docs/API_REFERENCE.md) |
+| 🗺️ **Map Storage & SUMO Parser** | Binary Road Map Ingestion & Traffic Light Topology Parsing | [View Map Guide](docs/MAP_AND_TOPOLOGY.md) |
 | 🖥️ **Tkinter Dashboard & UI** | Desktop dark GUI, telemetry sliding window & zero-value diagnostics | [View UI Guide](docs/UI_AND_DASHBOARD.md) |
 | 🧪 **Testing & Quality Assurance** | Pytest harness, 39 tests, coverage (>95%), and mocks | [View Guidelines](docs/TESTING.md) |
 | 🚀 **Deployment & Containerization** | Docker multi-stage build, Docker Compose, headless operation | [View Deployment](docs/DEPLOYMENT_AND_PACKAGING.md) |

@@ -34,6 +34,7 @@ Projetado sob rigorosos padrões de **Arquitetura Limpa** e **SOLID**, o Mock Se
 |---|---|---|
 | 🏛️ **[Arquitetura do Sistema](architecture.md)** | Especificação Arquitetural | Arquitetura limpa, princípios SOLID, fachada orquestradora (`ReceiverFacade`), concorrência com ThreadPool e isolamento de estado thread-safe. |
 | ⚡ **[API do Protocolo Synapse](api_reference.md)** | Especificação gRPC & Protobuf | Serviço `HFTLink`, chamadas `Ping`, `LoadScenario`, `SystemControl` e streaming contínuo de pacotes de tráfego (`StreamTraffic`). |
+| 🗺️ **[Mapas e Topologia SUMO](map_and_topology.md)** | Ingestão de Malha Viária | Persistência binária (`LocalMapStorage`), descompactação gzip, extração de geometrias e semáforos (`SumoNetParser`). |
 | 🖥️ **[Dashboard Tkinter & Diagnósticos](ui_and_dashboard.md)** | Interface Visual & Telemetria | Painel desktop escuro (`#1e1e2e`), componentes em cartões modulares, medidor de vazão (Hz), motor de detecção de dados zerados e modo headless. |
 | 🧪 **[Testes & Garantia de Qualidade](testing.md)** | Validação e Cobertura | Suíte Pytest com 39 testes automatizados, cobertura superior a 95%, mocks determinísticos de contexto gRPC e verificações de concorrência. |
 | 🚀 **[Deploy & Conteinerização](deployment.md)** | Docker e Operação em Servidor | Imagem Docker baseada em Python 3.12-slim, `docker-compose.yml`, health checks de socket, variáveis de ambiente e serviço Systemd. |

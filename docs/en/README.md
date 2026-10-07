@@ -34,6 +34,7 @@ Built under rigorous **Clean Architecture** and **SOLID** principles, the Mock S
 |---|---|---|
 | 🏛️ **[System Architecture](architecture.md)** | Architecture Blueprint | Clean Architecture, SOLID interfaces, orchestrating facade (`ReceiverFacade`), thread-pool concurrency, and thread-safe telemetry isolation. |
 | ⚡ **[Synapse Protocol API](api_reference.md)** | gRPC & Protobuf Specification | `HFTLink` service methods: `Ping`, `LoadScenario`, `SystemControl`, and bidirectional streaming of real-time traffic frames (`StreamTraffic`). |
+| 🗺️ **[Map Storage & SUMO Parser](map_and_topology.md)** | Road Network Ingestion | Binary map persistence (`LocalMapStorage`), gzip decompression, shape extraction, and traffic light parsing (`SumoNetParser`). |
 | 🖥️ **[Tkinter Dashboard & Diagnostics](ui_and_dashboard.md)** | Desktop UI & Diagnostics | Modular dark theme dashboard (`#1e1e2e`), sliding-window throughput meter (Hz), zero-value data detection engine, and headless fallback. |
 | 🧪 **[Testing & Quality Assurance](testing.md)** | Verification & Test Harness | Automated Pytest suite with 39 tests, >95% code coverage, deterministic gRPC context mocks, and concurrency validation. |
 | 🚀 **[Deployment & Containerization](deployment.md)** | Docker & Server Operations | Production Python 3.12-slim Dockerfile, `docker-compose.yml`, socket health checks, environment parameters, and Systemd service unit. |
