@@ -15,7 +15,7 @@
 #
 # File: src/infrastructure/file_logger.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 import logging
 from typing import Any

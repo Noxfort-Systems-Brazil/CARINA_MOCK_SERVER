@@ -15,7 +15,7 @@
 #
 # File: src/application/hft_service.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 import time
 import grpc

@@ -15,7 +15,7 @@
 #
 # File: src/receiver_facade.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 import sys
 import os

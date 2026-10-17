@@ -15,7 +15,7 @@
 #
 # File: ui/dashboard.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 import tkinter as tk
 from tkinter import ttk

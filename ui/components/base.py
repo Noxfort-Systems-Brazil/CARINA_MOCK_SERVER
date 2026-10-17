@@ -15,7 +15,7 @@
 #
 # File: ui/components/base.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 from abc import ABC, abstractmethod
 import tkinter as tk

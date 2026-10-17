@@ -15,7 +15,7 @@
 #
 # File: ui/theme.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 """
 Modern Dark Mode Theme definitions for Tkinter Dashboard (Catppuccin Mocha / VS Code Dark inspired).

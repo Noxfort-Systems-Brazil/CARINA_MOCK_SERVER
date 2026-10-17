@@ -15,7 +15,7 @@
 #
 # File: src/infrastructure/composite_logger.py
 # Author: Gabriel Moraes
-# Date: 2026-09-29
+# Date: October 2026
 
 from typing import Any, List
 from src.core.interfaces import ILogger

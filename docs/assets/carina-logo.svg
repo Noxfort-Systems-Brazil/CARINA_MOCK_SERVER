@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <!-- Radial highlights for lights -->
+    <radialGradient id="redGlow" cx="38%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#ff6347"/>
+      <stop offset="40%" stop-color="#eb3223"/>
+      <stop offset="100%" stop-color="#c0180a"/>
+    </radialGradient>
+    <radialGradient id="yellowGlow" cx="38%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#ffd24d"/>
+      <stop offset="40%" stop-color="#ffaf23"/>
+      <stop offset="100%" stop-color="#d98200"/>
+    </radialGradient>
+    <radialGradient id="greenGlow" cx="38%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#7efac0"/>
+      <stop offset="40%" stop-color="#4bde94"/>
+      <stop offset="100%" stop-color="#189a5b"/>
+    </radialGradient>
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Traffic Light Housing with Visors and Outline -->
+  <g filter="url(#subtleGlow)">
+    <!-- Outer Outline for universal contrast -->
+    <path d="
+      M 98,22 
+      C 98,14 158,14 158,22
+      L 158,45
+      L 186,43
+      C 189,43 189,59 184,65
+      L 158,74
+      L 158,103
+      L 186,101
+      C 189,101 189,117 184,123
+      L 158,132
+      L 158,161
+      L 186,159
+      C 189,159 189,175 184,181
+      L 158,190
+      L 158,234
+      C 158,244 98,244 98,234
+      L 98,190
+      L 72,181
+      C 67,175 67,159 70,159
+      L 98,161
+      L 98,132
+      L 72,123
+      C 67,117 67,101 70,101
+      L 98,103
+      L 98,74
+      L 72,65
+      C 67,59 67,43 70,43
+      L 98,45
+      Z
+    " fill="#0c1a24" stroke="#37556e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+
+    <!-- Bezels and Lamps -->
+    <!-- Red Lamp -->
+    <circle cx="128" cy="62" r="26" fill="#061016"/>
+    <circle cx="128" cy="62" r="22" fill="url(#redGlow)"/>
+    <ellipse cx="123" cy="56" rx="7" ry="5" fill="#ffffff" opacity="0.25"/>
+
+    <!-- Yellow Lamp -->
+    <circle cx="128" cy="120" r="26" fill="#061016"/>
+    <circle cx="128" cy="120" r="22" fill="url(#yellowGlow)"/>
+    <ellipse cx="123" cy="114" rx="7" ry="5" fill="#ffffff" opacity="0.28"/>
+
+    <!-- Green Lamp -->
+    <circle cx="128" cy="178" r="26" fill="#061016"/>
+    <circle cx="128" cy="178" r="22" fill="url(#greenGlow)"/>
+    <ellipse cx="123" cy="172" rx="7" ry="5" fill="#ffffff" opacity="0.28"/>
+  </g>
+</svg>
