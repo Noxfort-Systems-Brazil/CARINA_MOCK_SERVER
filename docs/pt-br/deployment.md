@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 Deploy, Conteinerização e Operação em Servidores
 
 Este documento descreve os procedimentos de empacotamento em contêineres Docker, orquestração com Docker Compose e execução em segundo plano para o **CARINA MOCK SERVER**.

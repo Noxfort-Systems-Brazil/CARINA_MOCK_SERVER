@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🛠️ Guide du Développeur & Contribution
 
 Ce document rassemble les directives de développement, de compilation et d'extension pour **CARINA MOCK SERVER**.

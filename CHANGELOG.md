@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Changelog — CARINA MOCK SERVER
 
 All notable changes to the CARINA MOCK SERVER project will be documented in this file.

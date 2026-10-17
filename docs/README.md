@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 <div align="center">
 
 <img src="assets/carina-logo.png" alt="CARINA MOCK SERVER Logo" width="120" />
@@ -10,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-v1.62%2B-244c5a?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
 [![Coverage](https://img.shields.io/badge/Coverage-95.7%25-success?style=flat)](../tests/)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat)](../LICENSE)
+[![SPDX-License-Identifier](https://img.shields.io/badge/SPDX--License--Identifier-Apache--2.0-blue?style=flat)](../LICENSE)
 
 ---
 
@@ -43,10 +48,18 @@
 | **Deployment & Containers** | [**`en/deployment.md`**](en/deployment.md) | [**`pt-br/deployment.md`**](pt-br/deployment.md) | [**`es/deployment.md`**](es/deployment.md) | [**`fr/deployment.md`**](fr/deployment.md) | [**`ru/deployment.md`**](ru/deployment.md) | [**`zh/deployment.md`**](zh/deployment.md) |
 | **Developer Guides** | [**`en/developer_guides.md`**](en/developer_guides.md) | [**`pt-br/developer_guides.md`**](pt-br/developer_guides.md) | [**`es/developer_guides.md`**](es/developer_guides.md) | [**`fr/developer_guides.md`**](fr/developer_guides.md) | [**`ru/developer_guides.md`**](ru/developer_guides.md) | [**`zh/developer_guides.md`**](zh/developer_guides.md) |
 
+## 📄 License & SPDX Compliance
+
+This project and its technical documentation are licensed under the [Apache License 2.0](../LICENSE).
+
+- **SPDX-License-Identifier:** `Apache-2.0`
+- **SPDX-FileCopyrightText:** `2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>`
+
 ---
 
 <div align="center">
   <img src="assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
-  <i>High-Frequency Telemetry & Synapse Protocol Test Harness • CARINA MOCK SERVER v1.1.0</i>
+  <i>High-Frequency Telemetry & Synapse Protocol Test Harness • CARINA MOCK SERVER v1.1.0</i><br/>
+  <small>SPDX-License-Identifier: <a href="../LICENSE">Apache-2.0</a> • SPDX-FileCopyrightText: © 2026 Noxfort Systems.</small>
 </div>

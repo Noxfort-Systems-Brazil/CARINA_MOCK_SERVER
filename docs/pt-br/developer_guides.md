@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🛠️ Guias do Desenvolvedor e Manutenção do Código
 
 Este documento reúne instruções práticas para desenvolvedores que desejam modificar, estender ou compilar recursos no **CARINA MOCK SERVER**.

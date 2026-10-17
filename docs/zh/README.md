@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 <div align="center">
 
 <img src="../assets/carina-logo.png" alt="CARINA MOCK SERVER Logo" width="120" />
@@ -10,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-v1.62%2B-244c5a?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
 [![测试覆盖率](https://img.shields.io/badge/覆盖率-95.7%25-success?style=flat)](../../tests/)
-[![开源许可证](https://img.shields.io/badge/许可证-Apache_2.0-blue?style=flat)](../../LICENSE)
+[![SPDX-License-Identifier](https://img.shields.io/badge/SPDX--License--Identifier-Apache--2.0-blue?style=flat)](../../LICENSE)
 
 ---
 
@@ -40,10 +45,18 @@
 | 🚀 **[容器化与系统部署](deployment.md)** | Docker 与生产运维 | 基于 Python 3.12-slim 的轻量级 Docker 镜像、`docker-compose.yml` 快速编排、Socket 级健康检查与 Systemd 服务。 |
 | 🛠️ **[开发者维护指南](developer_guides.md)** | 系统扩展与维护 | 本地环境搭建、使用 `protoc` 编译 `.proto` 接口定义、自定义监控卡片扩展与统一日志记录。 |
 
+## 📄 开源许可证与 SPDX 规范
+
+本项目及其技术文档遵循 [Apache License 2.0](../../LICENSE) 开源许可证。
+
+- **SPDX-License-Identifier:** `Apache-2.0`
+- **SPDX-FileCopyrightText:** `2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>`
+
 ---
 
 <div align="center">
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
-  <i>智能交通工程 • CARINA MOCK SERVER v1.1.0</i>
+  <i>智能交通工程 • CARINA MOCK SERVER v1.1.0</i><br/>
+  <small>SPDX-License-Identifier: <a href="../../LICENSE">Apache-2.0</a> • SPDX-FileCopyrightText: © 2026 Noxfort Systems.</small>
 </div>

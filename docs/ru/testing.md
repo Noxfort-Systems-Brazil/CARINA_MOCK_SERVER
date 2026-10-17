@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🧪 Тестирование и обеспечение качества
 
 В данном документе изложены стратегия тестирования, требования к покрытию кода и методы валидации компонентов **CARINA MOCK SERVER**.

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # ⚡ Протокол Synapse HFT: Спецификация API gRPC и Protobuf
 
 В данном документе приведено детальное описание сетевого контракта gRPC и структур Protocol Buffers протокола **Synapse HFT** для **CARINA MOCK SERVER**.

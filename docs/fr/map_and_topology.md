@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🗺️ Stockage des Cartes & Analyseur de Topologie SUMO
 
 Ce document spécifie le sous-système de persistance et d'analyse de réseaux routiers SUMO au sein de **CARINA MOCK SERVER**.

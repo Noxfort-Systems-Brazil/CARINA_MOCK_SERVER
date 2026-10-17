@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🧪 Testing & Quality Assurance Guidelines
 
 This document specifies the testing strategy, code coverage requirements, and verification procedures for the **CARINA MOCK SERVER**.

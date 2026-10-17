@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 <div align="center">
 
 <img src="../assets/carina-logo.png" alt="CARINA MOCK SERVER Logo" width="120" />
@@ -10,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-v1.62%2B-244c5a?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
 [![Couverture](https://img.shields.io/badge/Couverture-95.7%25-success?style=flat)](../../tests/)
-[![Licence](https://img.shields.io/badge/Licence-Apache_2.0-blue?style=flat)](../../LICENSE)
+[![SPDX-License-Identifier](https://img.shields.io/badge/SPDX--License--Identifier-Apache--2.0-blue?style=flat)](../../LICENSE)
 
 ---
 
@@ -40,10 +45,18 @@ Conçu selon les principes de l'**Architecture Propre** et de **SOLID**, il sert
 | 🚀 **[Déploiement & Conteneurs](deployment.md)** | Docker & Exploitation | Image Docker basée sur Python 3.12-slim, `docker-compose.yml`, vérifications de santé par socket, variables d'environnement et unité Systemd. |
 | 🛠️ **[Guide du Développeur](developer_guides.md)** | Extension & Maintenance | Configuration de l'environnement local, compilation `.proto` avec `protoc`, création de cartes graphiques et normes de journalisation. |
 
+## 📄 Licence & Conformité SPDX
+
+Ce projet et sa documentation technique sont sous licence [Apache License 2.0](../../LICENSE).
+
+- **SPDX-License-Identifier:** `Apache-2.0`
+- **SPDX-FileCopyrightText:** `2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>`
+
 ---
 
 <div align="center">
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
-  <i>Ingénierie de Mobilité Intelligente • CARINA MOCK SERVER v1.1.0</i>
+  <i>Ingénierie de Mobilité Intelligente • CARINA MOCK SERVER v1.1.0</i><br/>
+  <small>SPDX-License-Identifier: <a href="../../LICENSE">Apache-2.0</a> • SPDX-FileCopyrightText: © 2026 Noxfort Systems.</small>
 </div>

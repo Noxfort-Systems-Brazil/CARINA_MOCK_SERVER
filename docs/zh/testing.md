@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🧪 自动化测试与质量保证指南
 
 本文档规定 **CARINA MOCK SERVER** 的自动化测试规范、测试用例结构及覆盖率衡量标准。

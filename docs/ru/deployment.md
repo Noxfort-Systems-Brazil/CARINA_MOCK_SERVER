@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 Развертывание, контейнеризация и эксплуатация
 
 Данный документ описывает развертывание в контейнерах Docker, оркестрацию с Docker Compose и работу без графической подсистемы для **CARINA MOCK SERVER**.

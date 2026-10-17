@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 Deployment & Containerization Guide
 
 This document describes the deployment options, containerization workflows, environment configurations, and health-check monitoring for **CARINA MOCK SERVER**.

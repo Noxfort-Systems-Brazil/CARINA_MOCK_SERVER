@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 容器化构建、Docker 编排与系统运维
 
 本文档提供 **CARINA MOCK SERVER** 的 Docker 镜像构建、Docker Compose 编排与服务运维指引。

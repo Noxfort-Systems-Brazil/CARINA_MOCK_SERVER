@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Panel Gráfico Tkinter y Diagnóstico en Tiempo Real
 
 Este documento detalla la interfaz gráfica de usuario, los componentes modulares y el motor de diagnóstico de **CARINA MOCK SERVER**.

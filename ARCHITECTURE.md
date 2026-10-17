@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🏛️ CARINA MOCK SERVER: System Architecture Blueprint
 
 This document specifies the internal engineering architecture of **CARINA MOCK SERVER** — the High-Frequency Telemetry (HFT) and Synapse Protocol Test Harness for the Noxfort Systems autonomous mobility ecosystem.

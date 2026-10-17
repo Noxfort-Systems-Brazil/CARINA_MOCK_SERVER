@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🧪 Pruebas Automatizadas y Control de Calidad
 
 Este documento define la estrategia de pruebas, requisitos de cobertura y procedimientos de validación de **CARINA MOCK SERVER**.

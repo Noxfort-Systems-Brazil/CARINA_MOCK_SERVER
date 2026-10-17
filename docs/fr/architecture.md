@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🏛️ CARINA MOCK SERVER: Architecture du Système et Conception Logicielle
 
 Ce document détaille l'architecture interne de **CARINA MOCK SERVER** : couches d'Architecture Propre, principes SOLID, cycle de vie des sous-systèmes, modèle de concurrence et moteur de diagnostic en temps réel.

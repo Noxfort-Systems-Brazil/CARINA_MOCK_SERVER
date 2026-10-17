@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # Contributing to CARINA MOCK SERVER
 
 Thank you for your interest in contributing to **CARINA MOCK SERVER** — the High-Frequency Telemetry & Synapse Protocol Test Harness for the Noxfort Systems autonomous mobility ecosystem.

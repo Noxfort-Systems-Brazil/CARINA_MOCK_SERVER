@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # ⚡ Synapse HFT 协议: gRPC 接口规范与 Protobuf 定义
 
 本文档提供 **CARINA MOCK SERVER** 所实现的 **Synapse HFT**（高频遥测）网络接口与 Protocol Buffers 的技术参考规范。

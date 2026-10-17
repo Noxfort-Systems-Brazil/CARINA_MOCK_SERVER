@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🗺️ Armazenamento de Mapas Viários e Parser de Topologia SUMO
 
 Este documento especifica o subsistema de ingestão, persistência binária e processamento de topologia viária SUMO no **CARINA MOCK SERVER**.

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🗺️ 路网地图持久化与 SUMO 拓扑解析引擎指南
 
 本文档阐述 **CARINA MOCK SERVER** 的路网文件接收持久化及 SUMO 交通仿真拓扑解析子系统。

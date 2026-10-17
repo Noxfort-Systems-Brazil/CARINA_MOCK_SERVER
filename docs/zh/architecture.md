@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🏛️ CARINA MOCK SERVER: 系统架构蓝图与软件工程设计
 
 本文档详细阐述 **CARINA MOCK SERVER** 的内部软件工程架构，涵盖整洁架构分层、SOLID 原则实现、并发模型与实时遥测诊断机制。

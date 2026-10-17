@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 Déploiement, Conteneurs Docker & Exploitation
 
 Ce document décrit l'empaquetage Docker, l'orchestration Docker Compose et l'exploitation headless de **CARINA MOCK SERVER**.

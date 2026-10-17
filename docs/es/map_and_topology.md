@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🗺️ Almacenamiento de Mapas y Analizador de Topología SUMO
 
 Este documento especifica el subsistema de almacenamiento de mapas y análisis de topología vial SUMO en **CARINA MOCK SERVER**.

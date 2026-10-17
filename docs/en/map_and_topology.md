@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🗺️ Road Network Storage & SUMO Topology Parser Guide
 
 This document specifies the road network ingestion, disk storage, and SUMO topology parsing subsystem of the **CARINA MOCK SERVER**.

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🧪 Diretrizes de Testes e Garantia de Qualidade
 
 Este documento detalha a suíte de testes automatizados, cobertura de código e procedimentos de validação do **CARINA MOCK SERVER**.

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Interface Desktop Tkinter & Diagnostic Télémétrique
 
 Ce document décrit l'interface graphique utilisateur, le thème sombre Noxfort et le moteur de diagnostic de **CARINA MOCK SERVER**.

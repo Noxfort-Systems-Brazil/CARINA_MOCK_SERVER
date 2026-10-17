@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 <div align="center">
 
 <img src="../assets/carina-logo.png" alt="CARINA MOCK SERVER Logo" width="120" />
@@ -10,7 +15,7 @@
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://python.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-v1.62%2B-244c5a?style=flat&logo=grpc&logoColor=white)](https://grpc.io/)
 [![Cobertura](https://img.shields.io/badge/Cobertura-95.7%25-success?style=flat)](../../tests/)
-[![Licencia](https://img.shields.io/badge/Licencia-Apache_2.0-blue?style=flat)](../../LICENSE)
+[![SPDX-License-Identifier](https://img.shields.io/badge/SPDX--License--Identifier-Apache--2.0-blue?style=flat)](../../LICENSE)
 
 ---
 
@@ -40,10 +45,18 @@ Diseñado bajo los principios de **Arquitectura Limpia** y **SOLID**, actúa com
 | 🚀 **[Despliegue y Contenedores](deployment.md)** | Docker y Operaciones | Imagen Docker basada en Python 3.12-slim, `docker-compose.yml`, health checks de socket, variables de entorno y servicio Systemd. |
 | 🛠️ **[Guías de Desarrollo](developer_guides.md)** | Extensión y Mantenimiento | Entorno local, compilación de archivos `.proto` con `protoc`, creación de nuevas tarjetas visuales y estándares de registro. |
 
+## 📄 Licencia y Conformidad SPDX
+
+Este proyecto y su documentación técnica están licenciados bajo la [Apache License 2.0](../../LICENSE).
+
+- **SPDX-License-Identifier:** `Apache-2.0`
+- **SPDX-FileCopyrightText:** `2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>`
+
 ---
 
 <div align="center">
   <img src="../assets/noxfort-logo.png" alt="Noxfort Systems Logo" width="45" /><br/>
   <b>Noxfort Systems</b> — <i>A State Of Art Company</i><br/>
-  <i>Ingeniería de Movilidad Inteligente • CARINA MOCK SERVER v1.1.0</i>
+  <i>Ingeniería de Movilidad Inteligente • CARINA MOCK SERVER v1.1.0</i><br/>
+  <small>SPDX-License-Identifier: <a href="../../LICENSE">Apache-2.0</a> • SPDX-FileCopyrightText: © 2026 Noxfort Systems.</small>
 </div>

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Tkinter 桌面监控面板与实时遥测诊断
 
 本文档详细介绍 **CARINA MOCK SERVER** 的桌面前端交互架构、深色视觉主题以及实时数据异常诊断引擎。

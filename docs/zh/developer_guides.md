@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🛠️ 开发者指南与代码维护规范
 
 本文档为开发与维护 **CARINA MOCK SERVER** 的工程师提供工作流、编译与代码质量规范指引。

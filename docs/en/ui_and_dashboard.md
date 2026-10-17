@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Tkinter Desktop Dashboard & Telemetry Diagnostics
 
 This document details the user interface architecture, dark visual theme, and real-time telemetry diagnostics engine of the **CARINA MOCK SERVER**.

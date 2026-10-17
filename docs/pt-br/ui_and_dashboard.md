@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Interface Desktop Tkinter & Diagnósticos de Telemetria
 
 Este documento apresenta a arquitetura da interface gráfica, a paleta visual escura e o motor de diagnósticos do **CARINA MOCK SERVER**.

@@ -3,6 +3,11 @@ tags: [home, index, carina, mock_server, hub]
 aliases: [Documentation Index, Overview, Portal]
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚗 CARINA MOCK SERVER Documentation Hub
 
 Welcome to the technical documentation library for **CARINA MOCK SERVER** (High-Frequency Telemetry & Synapse Protocol Test Harness) — part of the **CARINA** intelligent transportation ecosystem developed by **Noxfort Systems**.

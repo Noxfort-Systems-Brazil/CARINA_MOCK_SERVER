@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Графическая панель Tkinter и телеметрическая диагностика
 
 Данный документ описывает структуру графического интерфейса пользователя, темную тему оформления и систему экспресс-диагностики **CARINA MOCK SERVER**.

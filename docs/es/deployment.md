@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 Despliegue, Contenedores y Operaciones en Servidor
 
 Este documento describe la configuración de Docker, Docker Compose y despliegue headless para **CARINA MOCK SERVER**.

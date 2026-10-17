@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🏛️ CARINA MOCK SERVER: Architecture Blueprint & Software Engineering
 
 This document specifies the internal engineering architecture of the **CARINA MOCK SERVER**: its Clean Architecture layers, SOLID principles, subsystem lifecycles, multithreaded concurrency model, and real-time telemetry diagnostics engine.

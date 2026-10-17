@@ -3,6 +3,11 @@ tags: [moc, hub, docs, obsidian, carina, mock_server, index]
 aliases: [CARINA Mock MOC, Master Documentation Hub, Documentation Index, Knowledge Vault]
 ---
 
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 📚 CARINA MOCK SERVER Technical Master Documentation Hub
 
 Welcome to the **CARINA MOCK SERVER** technical documentation library. Designed as an industrial test harness for High-Frequency Telemetry (HFT) and the Synapse wire protocol, this server validates high-throughput traffic control agents, digital twin simulations, and hardware gateway integrity.
@@ -17,12 +22,12 @@ This master documentation index provides deep technical coverage for core develo
 CARINA_MOCK_SERVER/
 ├── main.py                     # Application Entrypoint & CLI Parser (--no-gui flag)
 ├── ARCHITECTURE.md             # Clean Architecture Blueprint, Layers & Sequence Flow
-├── pyproject.toml              # Pytest configuration, coverage thresholds (min 80%), Ruff
+├── pyproject.toml              # Project metadata & SPDX identifier (Apache-2.0), Pytest & Ruff
 ├── requirements.txt            # Python production dependencies (grpcio, protobuf)
 ├── requirements-dev.txt        # Development dependencies (pytest, pytest-cov, ruff)
 ├── Dockerfile                  # Containerized deployment image (Python 3.12-slim)
 ├── docker-compose.yml          # Container orchestration service mapping port 50051
-├── LICENSE                     # Apache License 2.0
+├── LICENSE                     # Apache-2.0 License (SPDX-License-Identifier: Apache-2.0)
 ├── mock_server.log             # Rotating log file output
 │
 ├── proto/                      # gRPC Protocol Specifications

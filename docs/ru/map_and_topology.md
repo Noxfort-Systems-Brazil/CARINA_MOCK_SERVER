@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🗺️ Хранилище карт и парсер топологии SUMO
 
 В данном документе описана подсистема сохранения бинарных карт и синтаксического анализа графа дорожной сети SUMO в **CARINA MOCK SERVER**.

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # ⚡ Synapse HFT Protocol: gRPC API Reference & Protobuf Specs
 
 This document specifies the gRPC service contracts, RPC methods, and Protocol Buffer definitions for the **Synapse HFT** protocol implemented by the **CARINA MOCK SERVER**.

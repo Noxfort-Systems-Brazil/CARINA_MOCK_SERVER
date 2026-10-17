@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # ⚡ Synapse HFT Protocol: gRPC API Reference & Wire Specification
 
 This document provides the complete API reference for the **Synapse HFT** (High-Frequency Telemetry) communication protocol implemented by the **CARINA MOCK SERVER**.

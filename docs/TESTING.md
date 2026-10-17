@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🧪 Testing & Quality Assurance Guide
 
 This document outlines the testing strategy, test harness architecture, coverage metrics, and validation guidelines for the **CARINA MOCK SERVER**.

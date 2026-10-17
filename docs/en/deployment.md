@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🚀 Deployment, Docker & Server Operations
 
 This document covers container packaging with Docker, multi-container orchestration with Docker Compose, and headless host execution for the **CARINA MOCK SERVER**.

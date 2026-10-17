@@ -1,13 +1,14 @@
 # ==============================================================================
 # CARINA MOCK SERVER — MkDocs Configuration (Material for MkDocs)
 # High-Frequency Telemetry & Synapse Protocol Test Harness
-# Copyright (C) 2026 — Noxfort Systems
+# SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+# SPDX-License-Identifier: Apache-2.0
 # ==============================================================================
 
 site_name: "CARINA MOCK SERVER — Technical Documentation"
 site_description: "Internal technical documentation for CARINA MOCK SERVER — High-Frequency Telemetry & Synapse Protocol Test Harness of the Noxfort ecosystem."
 site_author: "Gabriel Moraes — Noxfort Systems"
-copyright: "Copyright &copy; 2026 — Noxfort Systems"
+copyright: "Copyright &copy; 2026 Noxfort Systems &bull; SPDX-License-Identifier: Apache-2.0"
 
 # ==============================================================================
 # Theme

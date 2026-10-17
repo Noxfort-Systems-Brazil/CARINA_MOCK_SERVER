@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 Noxfort Systems <gabriel.moraes@noxfortsystems.com>
+SPDX-License-Identifier: Apache-2.0
+-->
+
 # 🖥️ Tkinter Dashboard & Real-Time Diagnostics Guide
 
 This document describes the presentation architecture, user interface design, and real-time telemetry diagnostics engine of the **CARINA MOCK SERVER**.
